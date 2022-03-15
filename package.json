@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "name": "web_scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
